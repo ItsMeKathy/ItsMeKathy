@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @ItsMeKathy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- Hi there :wave: I’m Katharina (aka @ItsMeKathy), currently a Master Student of Applied Computer Science.
+- I’m currently learning about outlier detection and machine learning based outlier prediction while writing my Master thesis :mortar_board:.
+- At the moment, my favourite languages to code in are R, python and java.
+- When I am not coding, I like to dabble in AI generated art :art::computer: (see my profile picture :wink:), read a good book :closed_book: or be outdoors :deciduous_tree: (walking/hiking/running)
